@@ -1,9 +1,18 @@
 {
+  "scopedRegistries": [
+    {
+      "name": "Magic Leap",
+      "url": "https://registry.npmjs.org",
+      "scopes": [
+        "com.magicleap"
+      ]
+    }
+  ],
   "dependencies": {
     "com.atteneder.gltfast": "https://github.com/atteneder/glTFast.git#v4.8.3",
     "com.atteneder.ktx": "https://github.com/atteneder/KtxUnity.git#v2.1.2",
-    "com.magicleap.mrtk3": "file:C:/Users/james/MagicLeap/tools/unity/mrtk3/v1.0.0-pre.1/com.magicleap.mrtk3-1.0.0-pre.1.tgz",
-    "com.magicleap.unitysdk": "file:C:/Users/james/MagicLeap/tools/unity/v1.6.0/com.magicleap.unitysdk.tgz",
+    "com.magicleap.mrtk3": "file:com.magicleap.mrtk3-1.0.0-pre.1.tgz",
+    "com.magicleap.unitysdk": "1.6.0",
     "com.microsoft.mrtk.core": "file:MixedReality/com.microsoft.mrtk.core-3.0.0-pre.14.tgz",
     "com.microsoft.mrtk.diagnostics": "file:MixedReality/com.microsoft.mrtk.diagnostics-3.0.0-pre.14.tgz",
     "com.microsoft.mrtk.graphicstools.unity": "file:MixedReality/com.microsoft.mrtk.graphicstools.unity-0.4.0.tgz",
