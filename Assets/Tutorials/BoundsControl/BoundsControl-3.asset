@@ -12,6 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff771ccdf4150419d9ff4d342b069aae, type: 3}
   m_Name: BoundsControl-3
   m_EditorClassIdentifier: 
+  Title:
+    m_Untranslated: Add the BoundsControl Component
   m_Paragraphs:
     m_Items:
     - m_Type: 6
@@ -35,7 +37,7 @@ MonoBehaviour:
       m_TutorialButtonText: 
     - m_Type: 0
       Title:
-        m_Untranslated: Add the BoundsControl Component
+        m_Untranslated: 
       Text:
         m_Untranslated: "Adding the <b>BoundsControl</b> script as a component to
           a GameObject adds an automatically-sized bounding box around the object.\nAn
@@ -178,6 +180,7 @@ MonoBehaviour:
   Invalidated:
     m_PersistentCalls:
       m_Calls: []
+  isTesting: 0
   m_TargetGameObject:
     m_SceneObjectReference:
       m_SceneGuid: 172e42cf1b10433448823526d95e436a
