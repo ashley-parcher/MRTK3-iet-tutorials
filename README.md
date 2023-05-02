@@ -6,9 +6,9 @@ The MRTK3 in-editor tutorials guide you through each step of the way to build yo
 
 ## Getting Started with the MRTK3 in-editor tutorials
 
-1. Install Unity 2021.3.4f1
+1. Install Unity 2022.2.12f1
 1. Clone this repository to your computer.
-1. Open the cloned project "MRTK3-iet-tutorials" with Unity 2021.3.4f1.
+1. Open the cloned project "MRTK3-iet-tutorials" with Unity 2022.2.12f1.
 1. You should see a **Tutorials** window on the right side of your screen that contains a list of seven tutorials. If not, on the menu bar, select **Tutorial** > **Show Tutorials**.
 1. In the **Tutorials** window, select the tutorial you want to proceed with.
 
